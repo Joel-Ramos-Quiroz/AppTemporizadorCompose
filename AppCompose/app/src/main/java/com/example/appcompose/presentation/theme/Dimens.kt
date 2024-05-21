@@ -1,4 +1,4 @@
-package com.example.appcompose.ui.theme
+package com.example.appcompose.presentation.theme
 // Define el paquete donde se encuentra este archivo, útil para la organización y el acceso a este archivo desde otros lugares de la aplicación.
 
 import androidx.compose.ui.unit.Dp
